@@ -1,0 +1,1094 @@
+{
+    "code": 200,
+    "status": "Ok",
+    "copyright": "© 2021 MARVEL",
+    "attributionText": "Data provided by Marvel. © 2021 MARVEL",
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2021 MARVEL</a>",
+    "etag": "c83f6cab1b5ecd1b0fa25899dbc615fc7bc22b66",
+    "data": {
+      "offset": 210,
+      "limit": 8,
+      "total": 50292,
+      "count": 8,
+      "results": [
+        {
+          "id": 95985,
+          "digitalId": 0,
+          "title": "Black Panther (2021) #1 (Variant)",
+          "issueNumber": 1,
+          "variantDescription": "Variant",
+          "description": null,
+          "modified": "2021-05-27T09:05:08-0400",
+          "isbn": "",
+          "upc": "75960620042900141",
+          "diamondCode": "JUN210518",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 40,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/95985",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/95985/black_panther_2021_1_variant/variant?utm_campaign=apiRef&utm_source=96ce4d3794493af3061efba246406ac5"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/31553",
+            "name": "Black Panther (2021 - Present)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/95988",
+              "name": "Black Panther (2021) #1 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/92203",
+              "name": "Black Panther (2021) #1"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/95983",
+              "name": "Black Panther (2021) #1 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/95984",
+              "name": "Black Panther (2021) #1 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/95986",
+              "name": "Black Panther (2021) #1 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/95987",
+              "name": "Black Panther (2021) #1 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "2021-11-24T00:00:00-0500"
+            },
+            {
+              "type": "focDate",
+              "date": "2021-10-18T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 4.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/61928b38cfd13",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/61928b38cfd13",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 6,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/95985/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+                "name": "Simone Bianchi",
+                "role": "painter (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13180",
+                "name": "Federico Blee",
+                "role": "colorist"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13031",
+                "name": "Juann Cabal",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13127",
+                "name": "Emily Newcomen",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14138",
+                "name": "John Ridley",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+                "name": "Vc Joe Sabino",
+                "role": "letterer"
+              }
+            ],
+            "returned": 6
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/95985/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/95985/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/213034",
+                "name": "cover from Black Panther (2021) #1 (VARIANT)",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/213035",
+                "name": "story from Black Panther (2021) #1 (VARIANT)",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/95985/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 93317,
+          "digitalId": 0,
+          "title": "Death of Doctor Strange (2021) #3",
+          "issueNumber": 3,
+          "variantDescription": "",
+          "description": null,
+          "modified": "2021-08-02T09:03:14-0400",
+          "isbn": "",
+          "upc": "75960620099300311",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/93317",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/93317/death_of_doctor_strange_2021_3?utm_campaign=apiRef&utm_source=96ce4d3794493af3061efba246406ac5"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Death-of-Doctor-Strange-3/digital-comic/57895?utm_campaign=apiRef&utm_source=96ce4d3794493af3061efba246406ac5"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/31898",
+            "name": "Death of Doctor Strange (2021 - Present)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/98344",
+              "name": "Death of Doctor Strange (2021) #3 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/99031",
+              "name": "Death of Doctor Strange (2021) #3 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "2021-11-24T00:00:00-0500"
+            },
+            {
+              "type": "focDate",
+              "date": "2021-10-18T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 3.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/619e63954bda3",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/619e63954bda3",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 6,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/93317/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/191",
+                "name": "Kaare Andrews",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/428",
+                "name": "Antonio Fabela",
+                "role": "colorist"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8933",
+                "name": "Lee Garbett",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13471",
+                "name": "Jed Mackay",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+                "name": "Vc Cory Petit",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13027",
+                "name": "Darren Shan",
+                "role": "editor"
+              }
+            ],
+            "returned": 6
+          },
+          "characters": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/93317/characters",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009239",
+                "name": "Clea"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+                "name": "Doctor Strange"
+              }
+            ],
+            "returned": 2
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/93317/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/207746",
+                "name": "cover from Death of Doctor Strange (2021) #3",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/207747",
+                "name": "story from Death of Doctor Strange (2021) #3",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/93317/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 98884,
+          "digitalId": 0,
+          "title": "Iron Man (2020) #14 (Variant)",
+          "issueNumber": 14,
+          "variantDescription": "Variant",
+          "description": null,
+          "modified": "2021-09-27T09:07:17-0400",
+          "isbn": "",
+          "upc": "75960609866801421",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/98884",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/98884/iron_man_2020_14_variant/variant?utm_campaign=apiRef&utm_source=96ce4d3794493af3061efba246406ac5"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/30148",
+            "name": "Iron Man (2020 - Present)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/89680",
+              "name": "Iron Man (2020) #14"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "2021-11-24T00:00:00-0500"
+            },
+            {
+              "type": "focDate",
+              "date": "2021-10-18T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 3.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/61928b8f3e695",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/61928b8f3e695",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 7,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/98884/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+                "name": "Tom Brevoort",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13689",
+                "name": "C Cafu",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13816",
+                "name": "Angel Unzueta",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13861",
+                "name": "Christopher Cantwell",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                "name": "Vc Joe Caramagna",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11748",
+                "name": "Marco Checchetto",
+                "role": "colorist (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+                "name": "Frank D'ARMATA",
+                "role": "colorist"
+              }
+            ],
+            "returned": 7
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/98884/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/98884/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/218863",
+                "name": "cover from Iron Man (2020) #14 (VARIANT)",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/218864",
+                "name": "story from Iron Man (2020) #14 (VARIANT)",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/98884/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 94716,
+          "digitalId": 0,
+          "title": "Thor (2020) #19 (Variant)",
+          "issueNumber": 19,
+          "variantDescription": "Variant",
+          "description": null,
+          "modified": "2021-10-26T09:07:24-0400",
+          "isbn": "",
+          "upc": "75960609539101921",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/94716",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/94716/thor_2020_19_variant/variant?utm_campaign=apiRef&utm_source=96ce4d3794493af3061efba246406ac5"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/28031",
+            "name": "Thor (2020)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/89739",
+              "name": "Thor (2020) #19"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/98939",
+              "name": "Thor (2020) #19 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/99186",
+              "name": "Thor (2020) #19 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "2021-11-24T00:00:00-0500"
+            },
+            {
+              "type": "focDate",
+              "date": "2021-10-18T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 3.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/61928baddf978",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/61928baddf978",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 7,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/94716/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/598",
+                "name": "Brad Anderson",
+                "role": "colorist (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12712",
+                "name": "Donny Cates",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/308",
+                "name": "Gary Frank",
+                "role": "inker (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4989",
+                "name": "Nic Klein",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+                "name": "Wilson Moss",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+                "name": "Vc Joe Sabino",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10279",
+                "name": "Matthew Wilson",
+                "role": "colorist"
+              }
+            ],
+            "returned": 7
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/94716/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/94716/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/210554",
+                "name": "cover from Thor (2020) #19 (VARIANT)",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/210555",
+                "name": "story from Thor (2020) #19 (VARIANT)",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/94716/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 98720,
+          "digitalId": 0,
+          "title": "X-Men (2021) #5 (Variant)",
+          "issueNumber": 5,
+          "variantDescription": "Variant",
+          "description": null,
+          "modified": "2021-10-26T09:07:57-0400",
+          "isbn": "",
+          "upc": "75960609999300521",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/98720",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/98720/x-men_2021_5_variant/variant?utm_campaign=apiRef&utm_source=96ce4d3794493af3061efba246406ac5"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/31324",
+            "name": "X-Men (2021 - Present)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/91393",
+              "name": "X-Men (2021) #5"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/98959",
+              "name": "X-Men (2021) #5 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "2021-11-24T00:00:00-0500"
+            },
+            {
+              "type": "focDate",
+              "date": "2021-10-18T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 3.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/61928bda5d4f0",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/61928bda5d4f0",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 8,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/98720/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13162",
+                "name": "Erick Arciniega",
+                "role": "colorist"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13898",
+                "name": "Ze Carlos",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12846",
+                "name": "Javier Pina",
+                "role": "inker"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10445",
+                "name": "Iban Coello",
+                "role": "inker (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+                "name": "Vc Clayton Cowles",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+                "name": "Gerry Duggan",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/13127",
+                "name": "Emily Newcomen",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/14157",
+                "name": "Alejandro Sanchez",
+                "role": "colorist (cover)"
+              }
+            ],
+            "returned": 8
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/98720/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/98720/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/218535",
+                "name": "cover from X-Men (2021) #5 (VARIANT)",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/218536",
+                "name": "story from X-Men (2021) #5 (VARIANT)",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/98720/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 92291,
+          "digitalId": 0,
+          "title": "Star Wars: War Of The Bounty Hunters (Trade Paperback)",
+          "issueNumber": 0,
+          "variantDescription": "",
+          "description": "Collects Star Wars: War of the Bounty Hunters Alpha (2021) #1, Star Wars: War of the Bounty Hunters (2021) #1-5.  The Star Wars comic event you’ve been waiting for! The notorious bounty hunter Boba Fett has finally landed his greatest prize — Han Solo, frozen in carbonite for easy transport. Fett will bring the smuggler to Tatooine to collect the massive bounty placed on Solo’s head by the fearsome crime lord Jabba the Hutt. There’s just one problem standing between Fett and the payday…and it’s a big one. But Fett will stop at nothing to get the job done! Prepare for a mind-blowing, space-shattering epic event like no other! Featuring the return of the criminal Crimson Dawn, plus Darth Vader, Luke Skywalker, Leia Organa, Valance, Doctor Aphra and the Hutts, all vying for the ultimate prize — with Boba Fett stuck in the middle!",
+          "modified": "2021-11-22T11:15:05-0500",
+          "isbn": "978-1-302-92880-3",
+          "upc": "",
+          "diamondCode": "",
+          "ean": "9781302 928803 51999",
+          "issn": "",
+          "format": "Trade Paperback",
+          "pageCount": 160,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/92291",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/collection/92291/star_wars_war_of_the_bounty_hunters_trade_paperback?utm_campaign=apiRef&utm_source=96ce4d3794493af3061efba246406ac5"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Star-Wars-War-Of-The-Bounty-Hunters-0/digital-comic/57968?utm_campaign=apiRef&utm_source=96ce4d3794493af3061efba246406ac5"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/31569",
+            "name": "Star Wars: War Of The Bounty Hunters (2021)"
+          },
+          "variants": [],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "2021-11-24T00:00:00-0500"
+            },
+            {
+              "type": "focDate",
+              "date": "2021-09-13T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 19.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/619babc11dfae",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/619babc11dfae",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 4,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/92291/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9484",
+                "name": "Steve Mcniven",
+                "role": "penciller (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/2338",
+                "name": "Luke Ross",
+                "role": "penciller"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+                "name": "Charles Soule",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                "name": "Jeff Youngquist",
+                "role": "editor"
+              }
+            ],
+            "returned": 4
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/92291/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/92291/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/205666",
+                "name": "cover from STAR WARS: WAR OF THE BOUNTY HUNTERS TPB (2021) #1",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/205667",
+                "name": "story from STAR WARS: WAR OF THE BOUNTY HUNTERS TPB (2021) #1",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/92291/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 93968,
+          "digitalId": 0,
+          "title": "Sinister War (Trade Paperback)",
+          "issueNumber": 0,
+          "variantDescription": "",
+          "description": null,
+          "modified": "2021-11-22T09:48:56-0500",
+          "isbn": "978-1-302-93107-0",
+          "upc": "",
+          "diamondCode": "",
+          "ean": "9781302 931070 51799",
+          "issn": "",
+          "format": "Trade Paperback",
+          "pageCount": 128,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/93968",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/collection/93968/sinister_war_trade_paperback?utm_campaign=apiRef&utm_source=96ce4d3794493af3061efba246406ac5"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Sinister-War-0/digital-comic/57847?utm_campaign=apiRef&utm_source=96ce4d3794493af3061efba246406ac5"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/32087",
+            "name": "Sinister War (2021)"
+          },
+          "variants": [],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "2021-11-24T00:00:00-0500"
+            },
+            {
+              "type": "focDate",
+              "date": "2021-08-30T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 17.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/619ba9ce22665",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/619ba9ce22665",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 3,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/93968/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+                "name": "Mark Bagley",
+                "role": "penciller (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+                "name": "Nick Spencer",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+                "name": "Jeff Youngquist",
+                "role": "editor"
+              }
+            ],
+            "returned": 3
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/93968/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/93968/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/209051",
+                "name": "cover from SINISTER WAR TPB (2021) #1",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/209052",
+                "name": "story from SINISTER WAR TPB (2021) #1",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/93968/events",
+            "items": [],
+            "returned": 0
+          }
+        },
+        {
+          "id": 89739,
+          "digitalId": 0,
+          "title": "Thor (2020) #19",
+          "issueNumber": 19,
+          "variantDescription": "",
+          "description": null,
+          "modified": "2021-07-23T09:12:32-0400",
+          "isbn": "",
+          "upc": "75960609539101911",
+          "diamondCode": "",
+          "ean": "",
+          "issn": "",
+          "format": "Comic",
+          "pageCount": 32,
+          "textObjects": [],
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/89739",
+          "urls": [
+            {
+              "type": "detail",
+              "url": "http://marvel.com/comics/issue/89739/thor_2020_19?utm_campaign=apiRef&utm_source=96ce4d3794493af3061efba246406ac5"
+            },
+            {
+              "type": "purchase",
+              "url": "http://comicstore.marvel.com/Thor-19/digital-comic/57938?utm_campaign=apiRef&utm_source=96ce4d3794493af3061efba246406ac5"
+            }
+          ],
+          "series": {
+            "resourceURI": "http://gateway.marvel.com/v1/public/series/28031",
+            "name": "Thor (2020)"
+          },
+          "variants": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/98939",
+              "name": "Thor (2020) #19 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/94716",
+              "name": "Thor (2020) #19 (Variant)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/99186",
+              "name": "Thor (2020) #19 (Variant)"
+            }
+          ],
+          "collections": [],
+          "collectedIssues": [],
+          "dates": [
+            {
+              "type": "onsaleDate",
+              "date": "2021-11-24T00:00:00-0500"
+            },
+            {
+              "type": "focDate",
+              "date": "2021-10-18T00:00:00-0400"
+            }
+          ],
+          "prices": [
+            {
+              "type": "printPrice",
+              "price": 3.99
+            }
+          ],
+          "thumbnail": {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/619e6363d1c1b",
+            "extension": "jpg"
+          },
+          "images": [
+            {
+              "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/619e6363d1c1b",
+              "extension": "jpg"
+            }
+          ],
+          "creators": {
+            "available": 6,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/89739/creators",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12712",
+                "name": "Donny Cates",
+                "role": "writer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/6170",
+                "name": "Olivier Coipel",
+                "role": "penciler (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/4989",
+                "name": "Nic Klein",
+                "role": "painter (cover)"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+                "name": "Wilson Moss",
+                "role": "editor"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+                "name": "Vc Joe Sabino",
+                "role": "letterer"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10279",
+                "name": "Matthew Wilson",
+                "role": "colorist (cover)"
+              }
+            ],
+            "returned": 6
+          },
+          "characters": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/89739/characters",
+            "items": [],
+            "returned": 0
+          },
+          "stories": {
+            "available": 2,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/89739/stories",
+            "items": [
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/199796",
+                "name": "cover from Thor (2020) #19",
+                "type": "cover"
+              },
+              {
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/199797",
+                "name": "story from Thor (2020) #19",
+                "type": "interiorStory"
+              }
+            ],
+            "returned": 2
+          },
+          "events": {
+            "available": 0,
+            "collectionURI": "http://gateway.marvel.com/v1/public/comics/89739/events",
+            "items": [],
+            "returned": 0
+          }
+        }
+      ]
+    }
+  }

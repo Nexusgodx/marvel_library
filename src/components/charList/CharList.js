@@ -1,5 +1,6 @@
 import React, {useState, useEffect, useRef} from 'react';
 import PropTypes from 'prop-types';
+import { Transition } from 'react-transition-group';
 
 import Spinner from '../spinner/Spinner';
 import ErrorMessage from '../errorMessage/ErrorMessage';
@@ -18,6 +19,7 @@ const CharList = (props) => {
 
     
     const {loading, error, getAllCharacters} = useMarvelService();
+    
 
     useEffect(() => {
         onRequest(offset, true);
@@ -64,43 +66,59 @@ const CharList = (props) => {
         })
     }
 
+    const duration = 300;
+
+    const defaultStyle = {
+        transition: `opacity ${duration}ms ease-in-out`,
+        opacity: 0,
+        visibility: 'hidden'
+    }
+
+    const transitionStyles = {
+        entering: { opacity: 0, visibility: 'hidden' },
+        entered:  { opacity: 0, visibility: 'hidden' },
+        exiting:  { opacity: 1, visibility: 'visible' },
+        exited:  { opacity: 1, visibility: 'visible' }
+    };
 
 
     const renderItems = (arr) => {
-        console.log(arr)
+        
+       
         const items =  arr.map((item, i) => {
             let imgStyle = {'objectFit' : 'cover'};
             if (item.thumbnail === 'http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg') {
                 imgStyle = {'objectFit' : 'unset'};
             }
-            
-            return (
-                <li 
-                    tabIndex={0}
-                    ref={el => myRef.current[i] = el}
-                    className="char__item"
-                    key={item.id}
-                    onClick={() => {
-                       props.onCharSelected(item.id);
-                        onCharSelectedStyle(i);
-                    }}>
-                        <img src={item.thumbnail} alt={item.name} style={imgStyle}/>
-                        <div className="char__name">{item.name}</div>
-                </li>
-            )
+            console.log(arr.length + 10)
+                return (
+                        <li 
+                            tabIndex={0}
+                            ref={el => myRef.current[i] = el}
+                            className="char__item"
+                            key={item.id}
+                            onClick={() => {
+                            props.onCharSelected(item.id);
+                                onCharSelectedStyle(i);
+                            }}>
+                                <img src={item.thumbnail} alt={item.name} style={imgStyle}/>
+                                <div className="char__name">{item.name}</div>
+                        </li>
+                    )
         });
 
+
         return (
-            <ul className="char__grid">
-                {items}
-            </ul>
+
+                <ul className="char__grid">
+                    {items}
+                </ul>   
         )
     }
 
-    
-        
-        const items = renderItems(charList);
 
+        const items = renderItems(charList);
+        
         const errorMessage = error ? <ErrorMessage/> : null;
         const spinner = loading && !newItemLoading ? <Spinner/> : null;
 

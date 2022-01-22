@@ -10,17 +10,10 @@ import './charInfo.scss';
 
 const CharInfo = (props) => {
 
-    const [char, setChar] = useState(null),
-          [fixed, setFixed] = useState(false);  
+    const [char, setChar] = useState(null);
 
     const {loading, error, getCharacter, clearError} = useMarvelService();
 
-    useEffect(() => {
-        window.addEventListener('scroll', onScrolling);
-        return () => {
-            window.removeEventListener('scroll', onScrolling);
-        }
-    }, [])
 
     useEffect(() => {
         updateChar();
@@ -44,24 +37,17 @@ const CharInfo = (props) => {
 
 
 
-    const onScrolling = () => {
-            if (document.documentElement.scrollTop >= 447) {
-                setFixed(true);
-            } else {
-                setFixed(false);
-            }
-    }
+
 
 
         const skeleton = char || loading || error ? null : <Skeleton/>;
         const errorMessage = error ? <ErrorMessage/> : null;
         const spinner = loading ? <Spinner/> : null;
         const content = !(loading || error || !char) ? <View char={char}/> : null;
-        const fixedStyle = fixed ? ' char__info-scrollTop' : '';
 
 
         return (
-            <div className={"char__info" + fixedStyle}>
+            <div className={"char__info"}>
                 {skeleton}
                 {errorMessage}
                 {spinner}
